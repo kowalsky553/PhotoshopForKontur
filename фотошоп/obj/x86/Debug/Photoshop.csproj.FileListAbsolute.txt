@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\контур.проектирование\фотошоп\bin\Debug\cat.jpg
+C:\Users\User\Desktop\контур.проектирование\фотошоп\bin\Debug\MyPhotoshop.exe
+C:\Users\User\Desktop\контур.проектирование\фотошоп\bin\Debug\MyPhotoshop.pdb
+C:\Users\User\Desktop\контур.проектирование\фотошоп\obj\x86\Debug\Photoshop.csprojAssemblyReference.cache
+C:\Users\User\Desktop\контур.проектирование\фотошоп\obj\x86\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\контур.проектирование\фотошоп\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\User\Desktop\контур.проектирование\фотошоп\obj\x86\Debug\MyPhotoshop.pdb
